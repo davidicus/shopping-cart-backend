@@ -60,6 +60,8 @@ typings/
 # next.js build output
 .next
 
+runApp.sh
+
 .data/orders/*
 .data/purchases/*
 .data/tokens/*
