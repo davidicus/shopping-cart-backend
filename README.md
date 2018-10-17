@@ -9,8 +9,8 @@ If you are starting the app locally load your api key and token into enviroment 
 ```
 #!/bin/bash
 
-export STRIPE_API_KEY="sk_test_pJ6ovgqNLK2zzvOaHwjBgY23"
-export STRIPE_TOKEN="tok_visa"
+export STRIPE_API_KEY=[your api key]
+export STRIPE_TOKEN=[your token]
 
 node index.js
 ```
