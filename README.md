@@ -1,6 +1,6 @@
 # shopping-cart-backend
 
-An node api for CRUDing users and creating and processing a shopping cart
+An node api for CRUDing users, login/out, and creating and processing a shopping cart
 
 ## Starting the app
 
